@@ -1,1 +1,1 @@
-# predicting_price_oil_gas
+# Predicting the average selling price in the oil gas sector
